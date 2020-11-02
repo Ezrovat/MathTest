@@ -35,5 +35,6 @@ public class MyMathTest {
 	@Test
     public void shouldAnswerWithTrue() {
 		assertEquals(2, m.multiply(x, y));
+		System.out.println("Siam qui");
     }
 }
